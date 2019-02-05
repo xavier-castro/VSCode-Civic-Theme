@@ -11,7 +11,8 @@
 		"statusBar.background": "#1F2029",
 		"statusBar.noFolderBackground": "#1F2029",
 		"titleBar.activeBackground": "#1F2029",
-
+		"dropdown.background": "#1F2029",
+		"dropdown.listBackground": "#1F2029",
 	},
 	"tokenColors": [
 		{
