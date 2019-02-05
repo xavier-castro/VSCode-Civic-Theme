@@ -4,6 +4,10 @@
     "description": "XCode's Civic Theme",
     "version": "0.0.1",
     "publisher": "xavier-castro",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/xavier-castro/VSCode-Civic-Theme"
+    },
     "engines": {
         "vscode": "^1.30.0"
     },
