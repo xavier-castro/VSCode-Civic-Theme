@@ -3,6 +3,7 @@
     "displayName": "Civic",
     "description": "XCode's Civic Theme",
     "version": "0.0.1",
+    "publisher": "xavier-castro",
     "engines": {
         "vscode": "^1.30.0"
     },
