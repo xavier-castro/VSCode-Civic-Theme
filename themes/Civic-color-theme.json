@@ -13,6 +13,8 @@
 		"titleBar.activeBackground": "#1F2029",
 		"dropdown.background": "#1F2029",
 		"dropdown.listBackground": "#1F2029",
+		"editorGroupHeader.tabsBackground": "#1F2029",
+		"tab.inactiveBackground": "#1F2029",
 	},
 	"tokenColors": [
 		{
