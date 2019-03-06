@@ -1,4 +1,13 @@
 {
+	/* Main Colors 
+	 * Aqua: #1DA9A2
+	 * Background: #1F2029
+	 * Comment Color: #45BB3E
+	 * Violent Pink: #D7008F
+	 * Links: #5124E3
+	 */
+
+
 	"name": "Civic",
 	"type": "dark",
 	"colors": {
@@ -580,7 +589,7 @@
 			],
 			"settings": {
 				"background": "#65737E",
-				"foreground": "#65737E"
+				"foreground": "#5124E3"
 			}
 		},
 		{
@@ -599,7 +608,7 @@
 				"string.other.link.title.markdown"
 			],
 			"settings": {
-				"foreground": "#5124E3"
+				"foreground": "#45BB3E"
 			}
 		},
 		{
@@ -617,7 +626,7 @@
 				"constant.other.reference.link.markdown"
 			],
 			"settings": {
-				"foreground": "#5124E3"
+				"foreground": "#ffffff"
 			}
 		},
 		{
@@ -626,7 +635,7 @@
 				"markup.raw.block"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#5124E3"
 			}
 		},
 		{
@@ -635,7 +644,7 @@
 				"markup.raw.block.fenced.markdown"
 			],
 			"settings": {
-				"foreground": "#00000050"
+				"foreground": "#5124E3"
 			}
 		},
 		{
@@ -644,7 +653,7 @@
 				"punctuation.definition.fenced.markdown"
 			],
 			"settings": {
-				"foreground": "#00000050"
+				"foreground": "#5124E3"
 			}
 		},
 		{
@@ -655,7 +664,7 @@
 				"punctuation.section.class.end"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#45BB3E"
 			}
 		},
 		{
@@ -664,7 +673,7 @@
 				"variable.language.fenced.markdown"
 			],
 			"settings": {
-				"foreground": "#65737E"
+				"foreground": "#5124E3"
 			}
 		},
 		{
