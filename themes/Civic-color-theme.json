@@ -2,8 +2,6 @@
 	"$schema": "vscode://schemas/color-theme",
 	"type": "dark",
 	"colors": {
-		"textPreformat.foreground": "#ff0000",
-
 		"activityBar.background": "#bdbdc3",
 		"activityBar.border": "#a3a3a3",
 		"activityBar.foreground": "#4684eb",
@@ -73,7 +71,7 @@
 		"sideBar.foreground": "#16131b",
 		"sideBarSectionHeader.background": "#b3b3b6",
 		"sideBarSectionHeader.foreground": "#1e1e1e",
-		"sideBarTitle.foreground": "#000000",
+		"sideBarTitle.foreground": "#ececec",
 		"statusBar.background": "#4684eb",
 		"statusBar.border": "#a3a3a3",
 		"statusBar.noFolderBackground": "#2460c4",
