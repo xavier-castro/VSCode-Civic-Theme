@@ -22,10 +22,9 @@
 		"list.activeSelectionBackground": "#353747",
 		"list.dropBackground": "#353747",
 		"list.focusBackground": "#353747",
-		"list.highlightForeground": "#353747",
+		"list.highlightForeground": "#1DA9A2",
 		"list.hoverBackground": "#353747",
-		"list.inactiveSelectionBackground": "#00445488",
-
+		"list.inactiveSelectionBackground": "#353747",
 		"editor.background": "#2A2B35",
 		"editorCursor.foreground": "#ffffff",
 		"editor.foreground": "#E1E2E7",
