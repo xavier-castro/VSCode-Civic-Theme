@@ -50,7 +50,8 @@
 		"dropdown.listBackground": "#2A2b35",
 		"editorGroupHeader.tabsBackground": "#2A2b35",
 		"tab.inactiveBackground": "#2A2b35",
-		"editorLineNumber.foreground": "#47515F"
+		"editorLineNumber.foreground": "#47515F",
+		"focusBorder": "#353747"
 	},
 	"tokenColors": [
 		{
