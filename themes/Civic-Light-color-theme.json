@@ -40,11 +40,13 @@
 	"colors": {
 		
 		// General
-		"menu.selectionBorder": "#A3A3A3",
+		"menu.selectionBorder": "#BEBEC4",
 		"focusBorder": "#A3A3A3",
 		"editorGroupHeader.tabsBackground": "#ECECEC",
 		"editorLineNumber.foreground": "#55555A",
-
+		"editor.foreground": "#ffffff",
+		"titleBar.activeBackground": "#A3A3A3",
+		
 		// Button
 		"button.background": "#4684EB",
 		"button.hoverBackground": "#2460C4",
