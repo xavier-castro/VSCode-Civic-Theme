@@ -2,11 +2,11 @@
 	/* Main Colors 
 	 * Aqua: #1DA9A2
 	 * Background: #2A2b35
-	 	#2A2B35
 	 * Comment Color: #45BB3E
 	 * Violent Pink: #D7008F
 	 * Links: #5124E3
 	 * Pale Blue: #8486ba
+	 * Current and selected line background color: #353747
 	 */
 
 
@@ -14,7 +14,11 @@
 	"type": "dark",
 	"colors": {
 		"editor.background": "#2A2B35",
+		"editorCursor.foreground": "#ffffff",
 		"editor.foreground": "#E1E2E7",
+		"editor.lineHighlightBackground": "#353747",
+		"editor.selectionBackground": "#353747",
+		"editor.selectionHighlightBackground": "#353747",
 		"activityBarBadge.background": "#1DA9A2",
 		"sideBarTitle.foreground": "#E1E2E7",
 		"sideBar.background": "#2A2b35",
