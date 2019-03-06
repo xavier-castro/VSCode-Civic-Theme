@@ -19,6 +19,8 @@
 		"editor.lineHighlightBackground": "#353747",
 		"editor.selectionBackground": "#353747",
 		"editor.selectionHighlightBackground": "#353747",
+		"editor.wordHighlightBackground": "#353747",
+		"editor.wordHighlightStrongBackground": "#353747",
 		"activityBarBadge.background": "#1DA9A2",
 		"sideBarTitle.foreground": "#E1E2E7",
 		"sideBar.background": "#2A2b35",
