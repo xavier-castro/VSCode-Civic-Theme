@@ -1,29 +1,31 @@
 {
 	/* Main Colors 
 	 * Aqua: #1DA9A2
-	 * Background: #1F2029
+	 * Background: #2A2b35
+	 	#2A2B35
 	 * Comment Color: #45BB3E
 	 * Violent Pink: #D7008F
 	 * Links: #5124E3
+	 * Pale Blue: #8486ba
 	 */
 
 
 	"name": "Civic",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#1F2029",
+		"editor.background": "#2A2B35",
 		"editor.foreground": "#E1E2E7",
 		"activityBarBadge.background": "#1DA9A2",
 		"sideBarTitle.foreground": "#E1E2E7",
-		"sideBar.background": "#1F2029",
-		"activityBar.background": "#1F2029",
-		"statusBar.background": "#1F2029",
-		"statusBar.noFolderBackground": "#1F2029",
-		"titleBar.activeBackground": "#1F2029",
-		"dropdown.background": "#1F2029",
-		"dropdown.listBackground": "#1F2029",
-		"editorGroupHeader.tabsBackground": "#1F2029",
-		"tab.inactiveBackground": "#1F2029",
+		"sideBar.background": "#2A2b35",
+		"activityBar.background": "#2A2b35",
+		"statusBar.background": "#2A2b35",
+		"statusBar.noFolderBackground": "#2A2b35",
+		"titleBar.activeBackground": "#2A2b35",
+		"dropdown.background": "#2A2b35",
+		"dropdown.listBackground": "#2A2b35",
+		"editorGroupHeader.tabsBackground": "#2A2b35",
+		"tab.inactiveBackground": "#2A2b35",
 	},
 	"tokenColors": [
 		{

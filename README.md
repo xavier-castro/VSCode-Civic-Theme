@@ -16,5 +16,12 @@ TypeScript
 
 ## TODO
 
-1. Finish Markdown
-2. Tweak TypeScript
+- [ ] Finish Markdown
+- [ ] Stylize Flutter
+- [ ] Stylize Swift
+- [ ] Modify TypeScript
+- [ ] CSS Image
+- [ ] HTML Image
+- [ ] JavaScript Image
+- [ ] Python Image
+- [ ] Markdown Image
