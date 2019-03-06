@@ -25,7 +25,7 @@
                 "label": "Civic Light",
                 "uiTheme": "vs",
                 "path": "./themes/Civic-Light-color-theme.json"
-            },
+            }
         ]
     }
 }
