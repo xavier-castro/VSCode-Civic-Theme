@@ -8,12 +8,15 @@
 	 * Pale Blue: #8486ba
 	 * Current line highlight #353747
 	 * Selected text line highlight #47515F
+	 * Git change blue #4F83CE
 	 */
 
 
 	"name": "Civic",
 	"type": "dark",
 	"colors": {
+		"gitDecoration.addedResourceForeground": "#4F83CE",
+
 		"focusBorder": "#353747",
 		"sideBar.border": "#353747",
 		"editorHoverWidget.background": "#2A2b35",
@@ -46,6 +49,7 @@
 		"dropdown.listBackground": "#2A2b35",
 		"editorGroupHeader.tabsBackground": "#2A2b35",
 		"tab.inactiveBackground": "#2A2b35",
+		"editorLineNumber.foreground": "#47515F"
 	},
 	"tokenColors": [
 		{
