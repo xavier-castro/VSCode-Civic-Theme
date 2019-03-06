@@ -1,18 +1,4 @@
 {
-	/* Main Colors 
-	 * Aqua: #1DA9A2
-	 * Background: #2A2b35
-	 	Old background: #353747
-	 * Comment Color: #45BB3E
-	 * Violent Pink: #D7008F
-	 * Links: #5124E3
-	 * Pale Blue: #8486ba
-	 * Current line highlight #353747
-	 * Selected text line highlight #47515F
-	 * Git change blue #4F83CE
-	 */
-
-
 	"name": "Civic",
 	"type": "dark",
 	"colors": {
