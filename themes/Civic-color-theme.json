@@ -10,7 +10,7 @@
 	 *
 	 * 	- Text Editor background: #2A2B35
 	 *	- Text Editor selected line: #353747
-	 *	- Text Editor highlighting lines: #475155
+	 *	- Text Editor highlighting lines: #47515F
 	 *
 	 * Menu Coloring
 	 * 	- Activity/Side bar color: #BDBDC3 (or #BEBEC4)
@@ -29,7 +29,6 @@
 	 *	- Text
 	 */
 
-
 	"name": "Civic",
 	"type": "dark",
 	"colors": {
@@ -38,7 +37,7 @@
 		"menu.selectionBorder": "#A3A3A3",
 		"focusBorder": "#A3A3A3",
 		"editorGroupHeader.tabsBackground": "#ECECEC",
-		
+
 		// Button
 		"button.background": "#4684EB",
 		"button.hoverBackground": "#2460C4",
@@ -48,6 +47,10 @@
 		"editorCursor.foreground": "#ffffff",
 		"editor.lineHighlightBackground": "#353747",
 		"editor.lineHighlightBorder": "#353747",
+		"editor.selectionBackground": "#47515F",
+
+		// Editor Widgets
+		"editorWidget.background": "#BDBDC3",
 
 
 		// Activity/Side bar
@@ -57,7 +60,7 @@
 		"badge.background": "#4684EB",
 		"badge.foreground": "#ffffff",
 
-		// Activity/Side bar git text
+		// Activity/Side text
 		"sideBar.background": "#BEBEC4",
 		"sideBar.foreground": "#16131B",
 		"sideBar.border": "#ECECEC",
@@ -96,6 +99,10 @@
 
 		// Scroll Bar
 		"scrollbarSlider.activeBackground": "#BDBDC3",
+
+		// Notifications
+		"notificationCenterHeader.background": "#2A2B35",
+		"notifications.background": "#2A2B35",
 
 		// Git Colors
 		"gitDecoration.addedResourceForeground": "#078d00",
