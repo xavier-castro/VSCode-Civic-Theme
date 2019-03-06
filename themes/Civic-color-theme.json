@@ -45,7 +45,7 @@
 		"statusBar.background": "#2A2b35",
 		"statusBar.noFolderBackground": "#2A2b35",
 		"titleBar.activeBackground": "#2A2b35",
-		"dropdown.foreground": "#2A2b35",
+		"dropdown.foreground": "#E1E2E7",
 		"dropdown.background": "#2A2b35",
 		"dropdown.listBackground": "#2A2b35",
 		"editorGroupHeader.tabsBackground": "#2A2b35",
