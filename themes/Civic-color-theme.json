@@ -18,10 +18,7 @@
 	"colors": {
 		"editorWidget.background": "#2A2b35",
 		"gitDecoration.addedResourceForeground": "#4F83CE",
-		"gitDecoration.modifiedResourceForeground": "#ff0000",
-		"activityBar.border": "#353747",
-		"focusBorder": "#353747",
-		"sideBar.border": "#353747",
+		"gitDecoration.modifiedResourceForeground": "#45BB3E",
 		"editorHoverWidget.background": "#2A2b35",
 		"input.background": "#2A2b35",
 		"input.border": "#2A2b35",
