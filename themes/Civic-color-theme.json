@@ -2,6 +2,7 @@
 	/* Main Colors 
 	 * Aqua: #1DA9A2
 	 * Background: #2A2b35
+	 	Old background: #353747
 	 * Comment Color: #45BB3E
 	 * Violent Pink: #D7008F
 	 * Links: #5124E3
@@ -15,8 +16,10 @@
 	"name": "Civic",
 	"type": "dark",
 	"colors": {
+		"editorWidget.background": "#2A2b35",
 		"gitDecoration.addedResourceForeground": "#4F83CE",
-
+		"gitDecoration.modifiedResourceForeground": "#ff0000",
+		"activityBar.border": "#353747",
 		"focusBorder": "#353747",
 		"sideBar.border": "#353747",
 		"editorHoverWidget.background": "#2A2b35",
@@ -25,12 +28,12 @@
 		"inputOption.activeBorder": "#2A2b35",
 		"sideBar.background": "#2A2b35",
 		"dropdown.border": "#8486ba",
-		"list.activeSelectionBackground": "#353747",
-		"list.dropBackground": "#353747",
-		"list.focusBackground": "#353747",
+		"list.activeSelectionBackground": "#47515F",
+		"list.dropBackground": "#47515F",
+		"list.focusBackground": "#47515F",
 		"list.highlightForeground": "#1DA9A2",
-		"list.hoverBackground": "#353747",
-		"list.inactiveSelectionBackground": "#353747",
+		"list.hoverBackground": "#47515F",
+		"list.inactiveSelectionBackground": "#47515F",
 		"editor.background": "#2A2B35",
 		"editorCursor.foreground": "#ffffff",
 		"editor.foreground": "#E1E2E7",
@@ -45,6 +48,7 @@
 		"statusBar.background": "#2A2b35",
 		"statusBar.noFolderBackground": "#2A2b35",
 		"titleBar.activeBackground": "#2A2b35",
+		"dropdown.foreground": "#2A2b35",
 		"dropdown.background": "#2A2b35",
 		"dropdown.listBackground": "#2A2b35",
 		"editorGroupHeader.tabsBackground": "#2A2b35",
