@@ -20,11 +20,6 @@
                 "label": "Civic Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Civic-color-theme.json"
-            },
-            {
-                "label": "Civic Light",
-                "uiTheme": "vs",
-                "path": "./themes/Civic-Light-color-theme.json"
             }
         ]
     }
