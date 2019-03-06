@@ -14,6 +14,8 @@ HTML (with Angular components)
 TypeScript
 ![TypeScript Civic Theme Example](assets/typescript.png)
 
+The font seen in these screenshots is Apples SF Mono.
+
 ## TODO
 
 - [ ] Finish Markdown
@@ -25,3 +27,4 @@ TypeScript
 - [ ] JavaScript Image
 - [ ] Python Image
 - [ ] Markdown Image
+- [ ] Add Civic Dark theme
