@@ -75,10 +75,11 @@
 
 		// Activity/Side bar
 		"activityBar.background": "#BDBDC3",
-		"activityBar.foreground": "#16131B",
+		"activityBar.foreground": "#4684EB",
 		"activityBar.border": "#A3A3A3",
 		"badge.background": "#4684EB",
 		"badge.foreground": "#ffffff",
+		"activityBar.inactiveForeground": "#16131B",
 
 		// Activity/Side text
 		"sideBar.background": "#BEBEC4",
@@ -119,14 +120,15 @@
 
 		// Scroll Bar
 		"scrollbarSlider.activeBackground": "#BDBDC3",
+		"scrollbarSlider.hoverBackground": "#BDBDC3",
 
 		// Notifications
 		"notificationCenterHeader.background": "#2A2B35",
 		"notifications.background": "#2A2B35",
 
 		// Git Colors
-		"gitDecoration.addedResourceForeground": "#53A96E",
-		"gitDecoration.conflictingResourceForeground": "#e29300",
+		"gitDecoration.addedResourceForeground": "#38FF56",
+		"gitDecoration.conflictingResourceForeground": "#F07000",
 		"gitDecoration.untrackedResourceForeground": "#4e4e4c",
 		"gitDecoration.deletedResourceForeground": "#9b000a",
 		"gitDecoration.ignoredResourceForeground": "#5124E3",
