@@ -36,7 +36,7 @@
 	 */
 
 	"name": "Civic",
-	"type": "dark",
+	"type": "light",
 	"colors": {
 		
 		// General
@@ -119,7 +119,7 @@
 		"tab.hoverBorder": "#2A2B35",
 		"tab.activeBorderTop": "#2A2B35",
 		"tab.activeModifiedBorder": "#D2D2D2",
-		"titleBar.border": "#1E1E1E",
+		"titleBar.border": "#BDBDC3",
 
 		// Integrated Terminal
 		"panel.background": "#ffffff",

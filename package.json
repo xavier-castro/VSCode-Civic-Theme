@@ -22,15 +22,10 @@
                 "path": "./themes/Civic-color-theme.json"
             },
             {
-                "label": "Civic (Light Bar)",
-                "uiTheme": "vs-dark",
+                "label": "Civic Light",
+                "uiTheme": "vs",
                 "path": "./themes/Civic-Light-color-theme.json"
             },
-            {
-                "label": "Civic Syntax",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Civic-Syntax-Only-color-theme.json"
-            }
         ]
     }
 }
