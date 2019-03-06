@@ -6,13 +6,16 @@
 	 * Violent Pink: #D7008F
 	 * Links: #5124E3
 	 * Pale Blue: #8486ba
-	 * Current and selected line background color: #353747
+	 * Current line highlight #353747
+	 * Selected text line highlight #47515F
 	 */
 
 
 	"name": "Civic",
 	"type": "dark",
 	"colors": {
+		"focusBorder": "#353747",
+		"sideBar.border": "#353747",
 		"editorHoverWidget.background": "#2A2b35",
 		"input.background": "#2A2b35",
 		"input.border": "#2A2b35",
@@ -29,7 +32,7 @@
 		"editorCursor.foreground": "#ffffff",
 		"editor.foreground": "#E1E2E7",
 		"editor.lineHighlightBackground": "#353747",
-		"editor.selectionBackground": "#353747",
+		"editor.selectionBackground": "#47515F",
 		"editor.selectionHighlightBackground": "#353747",
 		"editor.wordHighlightBackground": "#353747",
 		"editor.wordHighlightStrongBackground": "#353747",
