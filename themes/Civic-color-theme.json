@@ -55,6 +55,7 @@
 		"titleBar.activeForeground": "#ffffff",
 		"titleBar.inactiveBackground": "#2a2b35",
 		"titleBar.inactiveForeground": "#ffffff",
+		"titleBar.border": "#16131b",
 		"input.background": "#d2d2d2",
 		"input.border": "#a3a3a3",
 		"input.foreground": "#16131b",
