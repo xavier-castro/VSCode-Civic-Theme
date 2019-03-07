@@ -6,6 +6,7 @@
 		/* TODO:
 			- Get official colors and change syntax accordingly
 			- Change git colors
+			- See if you can get a border on minmap
 
 			- Make text in Extensions readable (aka not black)
 			- Upload New screenshots
@@ -80,8 +81,6 @@
 		"panelTitle.activeBorder": "#4684eb",
 		"panelTitle.activeForeground": "#16131b",
 		"panelTitle.inactiveForeground": "#16131b",
-		"scrollbarSlider.activeBackground": "#bdbdc3",
-		"scrollbarSlider.hoverBackground": "#bdbdc3",
 		"sideBar.background": "#bebec4",
 		"sideBar.border": "#ececec",
 		"sideBar.foreground": "#16131b",
