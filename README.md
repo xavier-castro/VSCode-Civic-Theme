@@ -4,16 +4,20 @@ XCode inspired Civic theme for VSCode. I try to mimic this app similar to the XC
 
 ## Screenshots
 
-Python
+### Python
+
 ![Python Civic Theme Example](assets/python.png)
 
-JavaScript
+### JavaScript
+
 ![JavaScript Civic Theme Example](/assets/javascript.png)
 
-SCSS
+### SCSS
+
 ![CSS (SCSS) Civic Theme Example](/assets/scss.png)
 
-Markdown
+### Markdown
+
 ![Markdown Civic Theme Example](assets/markdown.png)
 
 ## Other
