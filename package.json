@@ -2,7 +2,7 @@
     "name": "civic",
     "displayName": "Civic",
     "description": "XCode's Civic Theme",
-    "icon": "/assets/icon.png",
+    "icon": "./assets/icon.png",
     "version": "0.26.0",
     "publisher": "xavier-castro",
     "repository": {
