@@ -4,16 +4,19 @@
 	"colors": {
 
 		/* TODO:
+			- Get official colors and change syntax accordingly
+			- Change git colors
+			- Remove debug shadow
+
 			- Make text in Extensions readable (aka not black)
 			- Upload New screenshots
-			- Get official colors and change syntax accordingly
 			- Make theme icon
 		*/
 
 		"activityBar.background": "#bdbdc3",
 		"activityBar.border": "#a3a3a3",
 		"activityBar.foreground": "#4684eb",
-		"activityBar.inactiveForeground": "#a3a3a3",
+		"activityBar.inactiveForeground": "#2a2b35",
 		"badge.background": "#4684eb",
 		"badge.foreground": "#ffffff",
 		"breadcrumb.foreground": "#ececec",
@@ -85,7 +88,6 @@
 		"sideBarSectionHeader.foreground": "#1e1e1e",
 		"sideBarTitle.foreground": "#1e1e1e",
 		"statusBar.background": "#4684eb",
-		"statusBar.border": "#a3a3a3",
 		"statusBar.noFolderBackground": "#2460c4",
 		"tab.activeBackground": "#2a2b35",
 		"tab.activeBorderTop": "#2a2b35",
