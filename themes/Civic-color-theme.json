@@ -12,7 +12,6 @@
 			- Upload New screenshots
 			- Make theme icon
 		*/
-
 		"widget.shadow": "#00000000",
 		"activityBar.background": "#bdbdc3",
 		"activityBar.border": "#a3a3a3",
@@ -42,10 +41,10 @@
 		"editorGroupHeader.tabsBackground": "#1e1e1e",
 		"editorLineNumber.foreground": "#55555a",
 		"editorPane.background": "#2a2b35",
-		"editorSuggestWidget.background": "#bebec4",
+		"editorSuggestWidget.background": "#ffffff",
 		"editorSuggestWidget.border": "#2a2b35",
 		"editorSuggestWidget.foreground": "#16131b",
-		"editorSuggestWidget.highlightForeground": "#000000",
+		"editorSuggestWidget.highlightForeground": "#ffffff",
 		"editorSuggestWidget.selectedBackground": "#4684eb",
 		"editorWidget.background": "#1e1e1e",
 		"editorWidget.border": "#2a2b35",
