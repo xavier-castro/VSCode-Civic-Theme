@@ -1,20 +1,26 @@
 # Civic Theme
 
-XCode inspired Civic theme for VSCode
+XCode inspired Civic theme for VSCode. I try to mimic this app similar to the XCode IDE. A dark version of this theme will be in future updates.
+
+## Screenshots
+
+Python
+![Python Civic Theme Example](assets/python.png)
 
 JavaScript
 ![JavaScript Civic Theme Example](/assets/javascript.png)
 
-CSS
-![CSS (SCSS) Civic Theme Example](/assets/css.png)
+SCSS
+![CSS (SCSS) Civic Theme Example](/assets/scss.png)
 
-HTML (with Angular components)
-![HTML Civic Theme Example](/assets/html.png)
+Markdown
+![Markdown Civic Theme Example](assets/markdown.png)
 
-TypeScript
-![TypeScript Civic Theme Example](assets/typescript.png)
+## Other
 
-The font seen in these screenshots is Apples SF Mono.
+- The font used for these screenshots was Apple's SF Mono.
+
+- The reason why this theme is set as a light theme is because a lot of uneditable buttons were blending in with the white background, this is the best I could think of while maintaing a white XCode feel.
 
 ## TODO
 
@@ -22,9 +28,5 @@ The font seen in these screenshots is Apples SF Mono.
 - [ ] Stylize Flutter
 - [ ] Stylize Swift
 - [ ] Modify TypeScript
-- [ ] CSS Image
 - [ ] HTML Image
-- [ ] JavaScript Image
-- [ ] Python Image
-- [ ] Markdown Image
 - [ ] Add Civic Dark theme
