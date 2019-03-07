@@ -6,13 +6,13 @@
 		/* TODO:
 			- Get official colors and change syntax accordingly
 			- Change git colors
-			- Remove debug shadow
 
 			- Make text in Extensions readable (aka not black)
 			- Upload New screenshots
 			- Make theme icon
 		*/
 
+		"widget.shadow": "#00000000",
 		"activityBar.background": "#bdbdc3",
 		"activityBar.border": "#a3a3a3",
 		"activityBar.foreground": "#4684eb",
