@@ -2,20 +2,29 @@
 	"$schema": "vscode://schemas/color-theme",
 	"type": "dark",
 	"colors": {
+
+		/* TODO:
+			- Make text in Extensions readable (aka not black)
+			- Upload New screenshots
+			- Get official colors and change syntax accordingly
+			- Make theme icon
+		*/
+
 		"activityBar.background": "#bdbdc3",
 		"activityBar.border": "#a3a3a3",
 		"activityBar.foreground": "#4684eb",
 		"activityBar.inactiveForeground": "#a3a3a3",
 		"badge.background": "#4684eb",
 		"badge.foreground": "#ffffff",
+		"breadcrumb.foreground": "#ececec",
+		"breadcrumbPicker.background": "#ffffff",
+		"breadcrumb.focusForeground": "#ececec",
 		"button.background": "#4684eb",
 		"button.foreground": "#ececec",
 		"button.hoverBackground": "#2460c4",
 		"dropdown.background": "#d2d2d2",
 		"dropdown.foreground": "#2a2b35",
 		"editor.background": "#2a2b35",
-		"editor.findMatchBackground": "#fffa53",
-		"editor.findMatchHighlightBackground": "#55555a",
 		"editor.foreground": "#ffffff",
 		"editor.inactiveSelectionBackground": "#4684eb",
 		"editor.lineHighlightBackground": "#353747",
@@ -40,6 +49,9 @@
 		"focusBorder": "#a3a3a3",
 		"menu.foreground": "#ffffff",
 		"titleBar.activeBackground": "#1e1e1e",
+		"titleBar.activeForeground": "#ffffff",
+		"titleBar.inactiveBackground": "#2a2b35",
+		"titleBar.inactiveForeground": "#ffffff",
 		"input.background": "#d2d2d2",
 		"input.border": "#a3a3a3",
 		"input.foreground": "#16131b",
@@ -71,7 +83,7 @@
 		"sideBar.foreground": "#16131b",
 		"sideBarSectionHeader.background": "#b3b3b6",
 		"sideBarSectionHeader.foreground": "#1e1e1e",
-		"sideBarTitle.foreground": "#ececec",
+		"sideBarTitle.foreground": "#1e1e1e",
 		"statusBar.background": "#4684eb",
 		"statusBar.border": "#a3a3a3",
 		"statusBar.noFolderBackground": "#2460c4",
