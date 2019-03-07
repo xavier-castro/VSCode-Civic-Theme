@@ -24,7 +24,7 @@ XCode inspired Civic theme for VSCode. I try to mimic this app similar to the XC
 
 - The font used for these screenshots was Apple's SF Mono.
 
-- The reason why this theme is set as a light theme is because a lot of uneditable buttons were blending in with the white background, this is the best I could think of while maintaing a white XCode feel.
+- The reason why this theme is set as a light theme is because a lot of uneditable buttons were blending in with the white background, this is the best I could think of while maintaining a white XCode feel.
 
 ## TODO
 
