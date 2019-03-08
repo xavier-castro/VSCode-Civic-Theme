@@ -6,7 +6,7 @@
 		"editorCursor.foreground": "#ffffff",
 		"editorGroupHeader.tabsBackground": "#242627",
 		"editorGroupHeader.noTabsBackground": "#242627",
-		"editorGroupHeader.tabsBorder": "#353638",
+		"editorGroupHeader.tabsBorder": "#00000000",
 		"editor.lineHighlightBackground": "#35404E",
 		"editorLineNumber.activeForeground": "#ffffff",
 		"editor.selectionForeground": "#35404E",
@@ -31,9 +31,9 @@
 		"tab.inactiveBackground": "#242627",
 		"tab.activeBorder": "#00000000",
 		"tab.border": "#00000000",
-		"breadcrumb.background": "#1F2137",
+		"breadcrumb.background": "#1F2022",
 		"breadcrumbPicker.background": "#2D2E30",
-		"breadcrumb.focusForeground": "#1E5AC6",
+		"breadcrumb.focusForeground": "#E7E8EB",
 		"breadcrumb.activeSelectionForeground": "#787878",
 		"editor.background": "#1F2029",
 		"activityBar.background": "#2D2E30",
@@ -65,9 +65,9 @@
 		"terminal.border": "#000000",
 		"notifications.background": "#2D2E30",
 		"notifications.border": "#2D2E30",
+		"gitDecoration.modifiedResourceForeground": "#4F83CE"
 	},
-	"tokenColors": [
-		{
+	"tokenColors": [{
 			"name": "Comment",
 			"scope": [
 				"comment",
