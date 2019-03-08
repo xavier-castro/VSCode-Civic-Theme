@@ -44,7 +44,7 @@
 		"badge.foreground": "#ffffff",
 		"sideBar.background": "#2D2E30",
 		"sideBar.foreground": "#ffffff",
-		"sideBar.border": "#000000",
+		"sideBar.border": "#00000000",
 		"sideBarSectionHeader.background": "#323437",
 		"list.focusBackground": "#2D6FD7",
 		"list.highlightForeground": "#ffffff",
