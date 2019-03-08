@@ -61,7 +61,7 @@
 		"statusBar.foreground": "#787878",
 		"statusBar.border": "#00000000",
 		"statusBar.debuggingForeground": "#ffffff",
-		"terminal.background": "#1F2029",
+		"terminal.background": "#2A2B35",
 		"terminal.foreground": "#aaaaaa",
 		"terminal.border": "#000000",
 		"notifications.background": "#2D2E30",
