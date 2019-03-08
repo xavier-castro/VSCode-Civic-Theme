@@ -35,7 +35,7 @@
 		"breadcrumbPicker.background": "#2D2E30",
 		"breadcrumb.focusForeground": "#E7E8EB",
 		"breadcrumb.activeSelectionForeground": "#787878",
-		"editor.background": "#1F2029",
+		"editor.background": "#2A2B35",
 		"activityBar.background": "#2D2E30",
 		"activityBar.foreground": "#4684eb",
 		"activityBar.border": "#00000000",
@@ -60,6 +60,7 @@
 		"statusBar.noFolderBackground": "#2D2E30",
 		"statusBar.foreground": "#787878",
 		"statusBar.border": "#00000000",
+		"statusBar.debuggingForeground": "#ffffff",
 		"terminal.background": "#1F2029",
 		"terminal.foreground": "#aaaaaa",
 		"terminal.border": "#000000",
@@ -787,6 +788,139 @@
 			"settings": {
 				"foreground": "#D3232E"
 			}
-		}
+		},
+		// MARK: Swift token coloring
+		{
+			"name": "Swift - Class",
+			"scope": [
+				"entity.name.type.class.swift",
+			],
+			"settings": {
+				"foreground": "#ffffff",
+			}
+		},
+		{
+			"name": "Swift - Inheritance Clause",
+			"scope": [
+				"meta.inheritance-clause.swift",
+			],
+			"settings": {
+				"foreground": "#53B1B3",
+			}
+		},
+		{
+			"name": "Swift - Keywords",
+			"scope": [
+				"keyword.other.declaration-specifier.swift"
+			],
+			"settings": {
+				"foreground": "#D7008F",
+			}
+		},
+		{
+			"name": "Swift - Definition Names",
+			"scope": [
+				"meta.definition.type.body.swift"
+			],
+			"settings": {
+				"foreground": "#ffffff",
+			}
+		},
+		{
+			"name": "Swift - Function Support",
+			"scope": [
+				"meta.function-call.swift"
+			],
+			"settings": {
+				"foreground": "#1DA9A2",
+			}
+		},
+		{
+			"name": "Swift - Support Variable",
+			"scope": "support.variable.swift",
+			"settings": {
+				"foreground": "#1DA9A2"
+			}
+		},
+		{
+			"name": "Swift - Variable Other",
+			"scope": "variable.other.swift",
+			"settings": {
+				"foreground": "#1DA9A2"
+			}
+		},
+		{
+			"name": "Swift - Function",
+			"scope": "entity.name.function.swift",
+			"settings": {
+				"foreground": "#ffffff"
+			}
+		},
+		{
+			"name": "Swift - Function Call",
+			"scope": "meta.function-call.swift",
+			"settings": {
+				"foreground": "#ffffff"
+			}
+		},
+		{
+			"name": "Swift - Super",
+			"scope": "variable.language.swift",
+			"settings": {
+				"foreground": "#D7008F",
+				"fontStyle": ""
+			}
+		},
+		{
+			"name": "Swift - Boolean",
+			"scope": "constant.language.boolean.swift",
+			"settings": {
+				"foreground": "#D7008F",
+				"fontStyle": ""
+			}
+		},
+		{
+			"name": "Swift - Function body",
+			"scope": "meta.definition.function.body.swift",
+			"settings": {
+				"foreground": "#1DA9A2",
+				"fontStyle": ""
+			}
+		},
+		{
+			"name": "Swift - Support Function",
+			"scope": "meta.function-call.swift",
+			"settings": {
+				"foreground": "#1DA9A2",
+				"fontStyle": ""
+			}
+		},
+		{
+			"name": "Swift - Support Function",
+			"scope": "support.function.any-method.swift",
+			"settings": {
+				"foreground": "#1DA9A2",
+				"fontStyle": ""
+			}
+		},
+		{
+			"name": "Swift - Keyword Operator",
+			"scope": "keyword.operator.type.swift",
+			"settings": {
+				"foreground": "#D7008F",
+				"fontStyle": ""
+			}
+		},
+		{
+			"name": "Swift - String Double Quote",
+			"scope": [
+				"punctuation.definition.string.begin.swift",
+			"punctuation.definition.string.end.swift"
+			],
+			"settings": {
+				"foreground": "#D3232E",
+				"fontStyle": ""
+			}
+		},
 	]
 }
