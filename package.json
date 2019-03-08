@@ -2,7 +2,7 @@
     "name": "civic",
     "displayName": "Civic",
     "description": "XCode's Civic Theme",
-    "version": "0.28.0",
+    "version": "0.29.0",
     "publisher": "xavier-castro",
     "icon": "assets/icon.png",
     "repository": {
@@ -20,7 +20,7 @@
             {
                 "label": "Civic Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Civic-Dark-color-theme.json"  
+                "path": "./themes/Civic-Dark-color-theme.json"
             },
             {
                 "label": "Civic Light",
