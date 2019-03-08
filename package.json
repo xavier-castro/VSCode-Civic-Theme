@@ -18,14 +18,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Civic Dark",
+                "label": "Civic",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Civic-Dark-color-theme.json"
-            },
-            {
-                "label": "Civic Light",
-                "uiTheme": "vs",
-                "path": "./themes/Civic-Light-color-theme.json"
             }
         ]
     }

@@ -143,18 +143,6 @@
 			}
 		},
 		{
-			"name": "Operator, Misc",
-			"scope": [
-				"keyword.control",
-				"punctuation.definition.tag.html",
-				"punctuation.definition.tag.begin.html",
-				"punctuation.definition.tag.end.html"
-			],
-			"settings": {
-				"foreground": "#D7008F"
-			}
-		},
-		{
 			"name": "Tag",
 			"scope": [
 				"entity.name.tag",
@@ -323,17 +311,6 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#55747C"
-			}
-		},
-		{
-			"name": "HTML Attributes",
-			"scope": [
-				"text.html.basic entity.other.attribute-name.html",
-				"text.html.basic entity.other.attribute-name"
-			],
-			"settings": {
-				"fontStyle": "italic",
 				"foreground": "#55747C"
 			}
 		},
@@ -766,29 +743,23 @@
 				"foreground": "#F44336"
 			}
 		},
-		{
-			"name": "Angular - HTML Directive and Interpolation",
-			"scope": [
-				"source.events.html",
-				"text.html.angular.events",
-				"text.html.angular",
-				"source.events.html",
-				"variable.other.readwrite.ts"
-			],
-			"settings": {
-				"foreground": "#53b2b0"
-			}
-		},
-		{
-			"name": "HTML - Inline CSS",
-			"scope": [
-				"punctuation.definition.string.begin.html",
-				"punctuation.definition.string.end.html"
-			],
-			"settings": {
-				"foreground": "#D3232E"
-			}
-		},
+		// MARK: HTML
+		
+
+		// {
+		// 	"name": "Angular - HTML Directive and Interpolation",
+		// 	"scope": [
+		// 		"source.events.html",
+		// 		"text.html.angular.events",
+		// 		"text.html.angular",
+		// 		"source.events.html",
+		// 		"variable.other.readwrite.ts"
+		// 	],
+		// 	"settings": {
+		// 		"foreground": "#53b2b0"
+		// 	}
+		// },
+
 		// MARK: Swift token coloring
 		{
 			"name": "Swift - Class",
