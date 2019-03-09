@@ -68,7 +68,7 @@
 		"terminal.border": "#000000",
 		"notifications.background": "#2D2E30",
 		"notifications.border": "#2D2E30",
-		"gitDecoration.modifiedResourceForeground": "#4F83CE"
+		"gitDecoration.modifiedResourceForeground": "#4F83CE",
 	},
 	"tokenColors": [{
 			"name": "Comment",
