@@ -3,21 +3,21 @@
 	"type": "dark",
 	"colors": {
 		"scrollbar.shadow": "#00000000",
-		"editorCursor.foreground": "#ffffff",
+		"editorCursor.foreground": "#E1E2E7",
 		"editorGroupHeader.tabsBackground": "#242627",
 		"editorGroupHeader.noTabsBackground": "#242627",
 		"editorGroupHeader.tabsBorder": "#00000000",
 		"editor.lineHighlightBackground": "#35404E",
-		"editorLineNumber.activeForeground": "#ffffff",
+		"editorLineNumber.activeForeground": "#E1E2E7",
 		"editor.selectionForeground": "#35404E",
 		"editor.findMatchHighlightBackground": "#55555A",
 		"editor.findMatchBackground": "#5E5A36",
-		"editor.foreground": "#ffffff",
+		"editor.foreground": "#E1E2E7",
 		"editor.selectionBackground": "#35404E",
 		"editorSuggestWidget.background": "#2D2E30",
 		"editorWidget.background": "#1F1E1E",
 		"editorWidget.border": "#000000",
-		"editorSuggestWidget.foreground": "#ffffff",
+		"editorSuggestWidget.foreground": "#E1E2E7",
 		"editorSuggestWidget.highlightForeground": "#E2E2DD",
 		"editorSuggestWidget.selectedBackground": "#1E5AC6",
 		"foreground": "#E7E8EB",
@@ -744,7 +744,71 @@
 			}
 		},
 		// MARK: HTML
-		
+
+		{
+			"name": "HTML - Attribute Name",
+			"scope": "entity.other.attribute-name.html",
+			"settings": {
+				"foreground": "#53B3B1",
+				"fontStyle": ""
+			}
+		},
+		{
+			"name": "HTML - Link",
+			"scope": "meta.attribute.href.html",
+			"settings": {
+				"foreground": "#5124E3",
+				"fontStyle": ""
+			}
+		},
+		{
+			"name": "HTML - Structure Tag",
+			"scope": "punctuation.definition.tag",
+			"settings": {
+				"foreground": "#bdbdbd62",
+				"fontStyle": ""
+			}
+		},
+		{
+			"name": "HTML - Double Quote in String",
+			"scope": [
+				"punctuation.definition.string.begin.html",
+				"punctuation.definition.string.end.html",
+			],
+			"settings": {
+				"foreground": "#ec3d37",
+				"fontStyle": ""
+			}
+		},
+		{
+			"name": "HTML - Entity Name Tag",
+			"scope": "entity.name.tag.html",
+			"settings": {
+				"foreground": "#ee19a3",
+				"fontStyle": "",
+			}
+		},
+		{
+			"name": "HTML - String in Double Quotes",
+			"scope": "string.quoted.double.html",
+			"settings": {
+				"foreground": "#ec3d37",
+				"fontStyle": ""
+			}
+		},
+		{
+			"name": "HTML - Punctuation Definition Entity",
+			"scope": [
+				"punctuation.definition.entity.html",
+				"constant.character.entity.named.copy.html",
+			],
+			"settings": {
+				"foreground": "#746DB0",
+				"fontStyle": "bold"
+			}
+		},
+
+
 
 		// {
 		// 	"name": "Angular - HTML Directive and Interpolation",
