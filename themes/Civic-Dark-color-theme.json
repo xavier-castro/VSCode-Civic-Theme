@@ -141,7 +141,6 @@
 			"name": "Operator, Misc",
 			"scope": [
 				"constant.other.color",
-				"punctuation",
 				"meta.tag",
 				"punctuation.definition.tag",
 				"punctuation.separator.inheritance.php",
@@ -549,39 +548,29 @@
 		{
 			"name": "Markup - Italic",
 			"scope": [
-				"markup.italic"
+				"markup.italic",
+				"punctuation.definition.italic.markdown",
 			],
 			"settings": {
 				"fontStyle": "italic",
 				"foreground": "#53B3B1"
 			}
 		},
-		{
-			"name": "Markup - Bold",
-			"scope": [
-				"markup.bold",
-				"markup.bold string"
-			],
-			"settings": {
-				"fontStyle": "bold",
-				"foreground": "#ee19a3"
-			}
-		},
-		{
-			"name": "Markup - Bold-Italic",
-			"scope": [
-				"markup.bold markup.italic",
-				"markup.italic markup.bold",
-				"markup.quote markup.bold",
-				"markup.bold markup.italic string",
-				"markup.italic markup.bold string",
-				"markup.quote markup.bold string"
-			],
-			"settings": {
-				"fontStyle": "bold",
-				"foreground": "#ee19a3"
-			}
-		},
+		// {
+		// 	"name": "Markup - Bold-Italic",
+		// 	"scope": [
+		// 		"markup.bold markup.italic",
+		// 		"markup.italic markup.bold",
+		// 		"markup.quote markup.bold",
+		// 		"markup.bold markup.italic string",
+		// 		"markup.italic markup.bold string",
+		// 		"markup.quote markup.bold string"
+		// 	],
+		// 	"settings": {
+		// 		"fontStyle": "bold",
+		// 		"foreground": "#ee19a3"
+		// 	}
+		// },
 		{
 			"name": "Markup - Underline",
 			"scope": [
@@ -589,7 +578,7 @@
 			],
 			"settings": {
 				"fontStyle": "underline",
-				"foreground": "#5124E3"
+				"foreground": "#8f84ec"
 			}
 		},
 		{
@@ -1115,6 +1104,59 @@
 				"foreground": "#ec3d37",
 				"fontStyle": ""
 			}
-		}
+		},
+		// MARK: Markdown
+		{
+			"name": "MD - Headings",
+			"scope": [
+				"entity.name.section.markdown",
+				"punctuation.definition.heading.markdown"
+			],
+			"settings": {
+				"foreground": "#34c9c6",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "MD - Bold",
+			"scope": [
+				"markup.bold.markdown",
+			],
+			"settings": {
+				"foreground": "#ee19a3",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "MD - Italic",
+			"scope": [
+				"markup.bold.italic",
+			],
+			"settings": {
+				"foreground": "#ee19a3",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "MD - *",
+			"scope": [
+				"punctuation.definition.bold.markdown",
+				"punctuation.definition.italic.markdown",
+			],
+			"settings": {
+				"foreground": "#bdbdbd62",
+				"fontStyle": ""
+			}
+		},
+		{
+			"name": "MD - <",
+			"scope": [
+				"punctuation.definition.link.markdown",
+			],
+			"settings": {
+				"foreground": "#8f84ec",
+				"fontStyle": "underline"
+			}
+		},
 	]
 }
