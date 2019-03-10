@@ -1031,6 +1031,16 @@
 				"fontStyle": ""
 			}
 		},
+		{
+			"name": "JSON - Boolean",
+			"scope": [
+				"constant.language.json"
+			],
+			"settings": {
+				"foreground": "#ee19a3",
+				"fontStyle": ""
+			}
+		},
 
 		// MARK: JavaScript
 		{
