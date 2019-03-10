@@ -74,7 +74,6 @@
 		"editorGutter.addedBackground": "#1bac1f",
 		"editorGutter.deletedBackground": "#D3232E",
 		"editorGutter.modifiedBackground": "#4F83CE",
-
 	},
 	"tokenColors": [{
 			"name": "Comment",
