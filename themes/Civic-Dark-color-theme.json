@@ -54,7 +54,7 @@
 		"input.background": "#2D2E31",
 		"input.foreground": "#ffffff",
 		"input.placeholderForeground": "#787878",
-		"input.border": "#1F2137",
+		"input.border": "#1f21378f",
 		"panel.background": "#2D2E30",
 		"editorPane.background": "#1f2029",
 		"panel.border": "#78787800",
