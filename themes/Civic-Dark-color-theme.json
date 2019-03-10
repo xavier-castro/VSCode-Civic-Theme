@@ -70,7 +70,10 @@
 		"notifications.border": "#2D2E30",
 		"gitDecoration.modifiedResourceForeground": "#4F83CE",
 		"gitDecoration.addedResourceForeground": "#1bac1f",
-		"gitDecoration.deletedResourceForeground": "#D3232E"
+		"gitDecoration.deletedResourceForeground": "#D3232E",
+		"editorGutter.addedBackground": "#1bac1f",
+		"editorGutter.deletedBackground": "#D3232E",
+		"editorGutter.modifiedBackground": "#4F83CE",
 
 	},
 	"tokenColors": [{
@@ -191,7 +194,6 @@
 			"name": "Other Variable, String Link",
 			"scope": [
 				"support.other.variable",
-				"string.other.link"
 			],
 			"settings": {
 				"foreground": "#5124E3"
@@ -1175,5 +1177,13 @@
 				"fontStyle": "underline"
 			}
 		},
+		{
+			"name": "MD - Description Link",
+			"scope": "string.other.link.description.markdown",
+			"settings": {
+				"foreground": "#5aca3e",
+				"fontStyle": ""
+			}
+		}
 	]
 }
