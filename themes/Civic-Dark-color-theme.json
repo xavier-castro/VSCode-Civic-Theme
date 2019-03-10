@@ -890,24 +890,6 @@
 			}
 		},
 
-
-
-
-
-		// {
-		// 	"name": "Angular - HTML Directive and Interpolation",
-		// 	"scope": [
-		// 		"source.events.html",
-		// 		"text.html.angular.events",
-		// 		"text.html.angular",
-		// 		"source.events.html",
-		// 		"variable.other.readwrite.ts"
-		// 	],
-		// 	"settings": {
-		// 		"foreground": "#53B3B1"
-		// 	}
-		// },
-
 		// MARK: Swift token coloring
 		{
 			"name": "Swift - Class",
@@ -1035,6 +1017,19 @@
 			"scope": [
 				"punctuation.definition.string.begin.swift",
 			"punctuation.definition.string.end.swift"
+			],
+			"settings": {
+				"foreground": "#ec3d37",
+				"fontStyle": ""
+			}
+		},
+
+		// MARK: JSON
+		{
+			"name": "JSON - Double Quotes",
+			"scope": [
+				"punctuation.definition.string.begin.json",
+				"punctuation.definition.string.end.json",
 			],
 			"settings": {
 				"foreground": "#ec3d37",
