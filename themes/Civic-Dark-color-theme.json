@@ -83,7 +83,6 @@
 		{
 			"name": "Variables",
 			"scope": [
-				"variable",
 				"string constant.other.placeholder"
 			],
 			"settings": {
@@ -97,6 +96,16 @@
 			],
 			"settings": {
 				"foreground": "#53B3B1"
+			}
+		},
+		{
+			"name": "Numbers",
+			"scope": [
+				"constant.numeric"
+			],
+			"settings": {
+				"foreground": "#34c9c6",
+				"fontStyle": ""
 			}
 		},
 		{
@@ -158,7 +167,6 @@
 		{
 			"name": "Function, Special Method",
 			"scope": [
-				"entity.name.function",
 				"meta.function-call",
 				"variable.function",
 				"support.function",
@@ -168,15 +176,15 @@
 				"foreground": "#53B3B1"
 			}
 		},
-		{
-			"name": "Block Level Variables",
-			"scope": [
-				"meta.block variable.other"
-			],
-			"settings": {
-				"foreground": "#E1E2E7"
-			}
-		},
+		// {
+		// 	"name": "Block Level Variables",
+		// 	"scope": [
+		// 		"meta.block variable.other"
+		// 	],
+		// 	"settings": {
+		// 		"foreground": "#53B3B1"
+		// 	}
+		// },
 		{
 			"name": "Other Variable, String Link",
 			"scope": [
@@ -190,7 +198,6 @@
 		{
 			"name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
 			"scope": [
-				"constant.numeric",
 				"constant.language",
 				"support.constant",
 				"constant.character",
@@ -230,9 +237,8 @@
 		{
 			"name": "Class, Support",
 			"scope": [
-				"entity.name",
 				"support.type",
-				"support.class",
+				// "support.class",
 				"support.orther.namespace.use.php",
 				"meta.use.php",
 				"support.other.namespace.php",
@@ -240,7 +246,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#e7e8eb"
+				"foreground": "#53B3B1"
 			}
 		},
 		{
@@ -271,7 +277,6 @@
 			"scope": [
 				"entity.name.module.js",
 				"variable.import.parameter.js",
-				"variable.other.class.js"
 			],
 			"settings": {
 				"foreground": "#53B3B1"
@@ -283,7 +288,7 @@
 				"variable.language"
 			],
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "",
 				"foreground": "#ee19a3"
 			}
 		},
@@ -293,7 +298,7 @@
 				"entity.name.method.js"
 			],
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "",
 				"foreground": "#53B3B1"
 			}
 		},
@@ -1030,11 +1035,86 @@
 			"scope": [
 				"punctuation.definition.string.begin.json",
 				"punctuation.definition.string.end.json",
+				"string.quoted.single.js"
 			],
 			"settings": {
 				"foreground": "#ec3d37",
 				"fontStyle": ""
 			}
 		},
+
+		// MARK: JavaScript
+		{
+			"name": "JS - Function Variable Name",
+			"scope": [
+				"meta.definition.variable.js",
+				"keyword.operator.assignment.js",
+				"meta.var.expr.js",
+				"support.class",
+				"meta.function.expression.js",
+				"meta.object.member.js",
+				"meta.objectliteral.js",
+				"keyword.operator.arithmetic.js",
+				"keyword.operator.comparison.js",
+				"keyword.operator.relational.js",
+				"variable.other.readwrite.js",
+				"variable.other.object.js",
+				],
+			"settings": {
+				"foreground": "#E1E2E7",
+				"fontStyle": ""
+			}
+		},
+		{
+			"name": "JS - Variable Other Prop",
+			"scope": [
+				"variable.other.property.js",
+				"meta.function.expression.js",
+				"meta.var.expr.js",
+				"meta.function.expression.js",
+				"meta.var.expr.js",
+				"meta.function-call.js",
+				"meta.array.literal.js",
+			],
+			"settings": {
+				"foreground": "#53B3B1",
+				"fontStyle": ""
+			}
+		},
+		{
+			"name": "JS - Support",
+			"scope": [
+				"support.constant.math.js",
+				"meta.var.expr.js",
+				"support.class.console.js",
+			],
+			"settings": {
+				"foreground": "#34c9c6",
+				"fontStyle": ""
+			}
+		},
+		{
+			"name": "JS - Keywords and Support",
+			"scope": [
+				"keyword",
+				"keyword.control.conditional.js"
+			],
+			"settings": {
+				"foreground": "#ee19a3",
+				"fontStyle": ""
+			}
+		},
+		{
+			"name": "JS - Quotations",
+			"scope": [
+				"punctuation.definition.string.begin.js",
+				"punctuation.definition.string.end.js",
+				"string.quoted.single.js"
+			],
+			"settings": {
+				"foreground": "#ec3d37",
+				"fontStyle": ""
+			}
+		}
 	]
 }
