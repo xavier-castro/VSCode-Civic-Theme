@@ -1048,6 +1048,10 @@
 				"keyword.operator.relational.js",
 				"variable.other.readwrite.js",
 				"variable.other.object.js",
+				"punctuation.accessor.js",
+				"punctuation.separator.comma.js",
+				"punctuation.terminator.statement.js",
+				"punctuation.separator.parameter.js",
 				],
 			"settings": {
 				"foreground": "#E1E2E7",
