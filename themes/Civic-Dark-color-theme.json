@@ -2,6 +2,28 @@
   "$schema": "vscode://schemas/color-theme",
   "type": "dark",
   "colors": {
+    /*
+     Background: #292B36
+     Current Line: #353749
+     Selection: #445261
+     
+     Plain Text: #E7E8EB
+     Comments: #51C34F
+     Strings: #DE3A3C
+     Characters: #8783BE
+     Numbers: #00AAA3
+     Keywords: #E12DA0
+     URLS: #6544E9
+     Attributes: #68878F
+     Class Names: #18B5B1
+     Project Function and Method Names: #17B6B2
+     Project Constants/Types/Variables: #18B5B1
+     Other Class Names: #2AA09F
+     Other Function and Method Names: #29A09F
+     Other Constants: #29A09F
+     Other Type Names: #29A09F
+     Other Instance Variables and Globals
+    */
     "scrollbar.shadow": "#00000000",
     "editorCursor.foreground": "#E1E2E7",
     "editorGroupHeader.tabsBackground": "#242627",

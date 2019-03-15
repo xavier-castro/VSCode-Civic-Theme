@@ -18,12 +18,7 @@ XCode inspired Civic theme for VSCode. Updating every day.
 
 ## IMPROVED COLORING COMING SOON FOR
 
-- Markdown
 - Python
-- JavaScript
 - TypeScript
 - Angular
-- React
 - Flutter
-- JSON
-- Git
