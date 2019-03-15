@@ -1122,8 +1122,8 @@
       }
     },
     {
-      "name": "React - Component Elements",
-      "scope": "support.class.component.js.jsx",
+      "name": "React - Support Class",
+      "scope": "support.class.component.js",
       "settings": {
         "foreground": "#34c9c6"
       }
