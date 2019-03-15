@@ -997,7 +997,7 @@
         "support.class.console.js"
       ],
       "settings": {
-        "foreground": "#789292",
+        "foreground": "#34c9c6",
         "fontStyle": ""
       }
     },
@@ -1124,6 +1124,13 @@
     {
       "name": "React - Support Class",
       "scope": "support.class.component.js",
+      "settings": {
+        "foreground": "#34c9c6"
+      }
+    },
+    {
+      "name": "React - Support Constants",
+      "scope": "support.constant.js",
       "settings": {
         "foreground": "#34c9c6"
       }
