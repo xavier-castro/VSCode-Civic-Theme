@@ -1090,7 +1090,35 @@
       "name": "React - Components",
       "scope": "entity.other.inherited-class.js",
       "settings": {
-        "foreground": "#789292"
+        "foreground": "#53B3B1"
+      }
+    },
+    {
+      "name": "React - Attribute Names",
+      "scope": "entity.other.attribute-name.js",
+      "settings": {
+        "foreground": "#53B3B1"
+      }
+    },
+    {
+      "name": "React - Entity Name Tag",
+      "scope": "entity.name.tag.js",
+      "settings": {
+        "foreground": "#34c9c6"
+      }
+    },
+    {
+      "name": "React - Class",
+      "scope": "entity.name.type.class.js",
+      "settings": {
+        "foreground": "#e7e7e7"
+      }
+    },
+    {
+      "name": "React - Functions",
+      "scope": "entity.name.function.js",
+      "settings": {
+        "foreground": "#34c9c6"
       }
     }
   ]
