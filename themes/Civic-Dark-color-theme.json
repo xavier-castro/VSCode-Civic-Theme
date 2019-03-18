@@ -981,7 +981,6 @@
         "meta.var.expr.js",
         "support.class",
         "meta.function.expression.js",
-        "meta.object.member.js",
         "meta.objectliteral.js",
         "keyword.operator.arithmetic.js",
         "keyword.operator.comparison.js",
@@ -996,6 +995,25 @@
       "settings": {
         "foreground": "#E7E8EB",
         "fontStyle": ""
+      }
+    },
+    {
+      "name": "JS - Language Boolean",
+      "scope": [
+        "constant.language.boolean.true.js",
+        "constant.language.boolean.false.js"
+      ],
+      "settings": {
+        "foreground": "#E12DA0",
+      }
+    },
+    {
+      "name": "JS - Support Built in",
+      "scope": [
+        "support.class.builtin.js"
+      ],
+      "settings": {
+        "foreground": "#18B5B1",
       }
     },
     {
@@ -1014,7 +1032,8 @@
         "meta.function.expression.js",
         "meta.var.expr.js",
         "meta.function-call.js",
-        "meta.array.literal.js"
+        "meta.array.literal.js",
+        "meta.object.member.js",
       ],
       "settings": {
         "foreground": "#53B3B1",
