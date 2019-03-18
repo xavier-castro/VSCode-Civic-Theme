@@ -139,7 +139,7 @@
       "name": "Keyword, Storage",
       "scope": ["storage.type", "storage.modifier"],
       "settings": {
-        "foreground": "#ee19a3"
+        "foreground": "#E12DA0"
       }
     },
     {
@@ -172,7 +172,7 @@
         "markup.deleted.git_gutter"
       ],
       "settings": {
-        "foreground": "#ee19a3"
+        "foreground": "#E12DA0"
       }
     },
     {
@@ -273,7 +273,7 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#ee19a3"
+        "foreground": "#E12DA0"
       }
     },
     {
@@ -288,7 +288,7 @@
       "scope": ["variable.language"],
       "settings": {
         "fontStyle": "",
-        "foreground": "#ee19a3"
+        "foreground": "#E12DA0"
       }
     },
     {
@@ -539,7 +539,7 @@
     // 	],
     // 	"settings": {
     // 		"fontStyle": "bold",
-    // 		"foreground": "#ee19a3"
+    // 		"foreground": "#E12DA0"
     // 	}
     // },
     {
@@ -807,7 +807,7 @@
       "name": "CSS - Media Query",
       "scope": ["keyword.control.at-rule.css"],
       "settings": {
-        "foreground": "#ee19a3",
+        "foreground": "#E12DA0",
         "fontStyle": ""
       }
     },
@@ -843,7 +843,7 @@
       "name": "Swift - Keywords",
       "scope": ["keyword.other.declaration-specifier.swift"],
       "settings": {
-        "foreground": "#ee19a3"
+        "foreground": "#E12DA0"
       }
     },
     {
@@ -892,7 +892,7 @@
       "name": "Swift - Super",
       "scope": "variable.language.swift",
       "settings": {
-        "foreground": "#ee19a3",
+        "foreground": "#E12DA0",
         "fontStyle": ""
       }
     },
@@ -900,7 +900,7 @@
       "name": "Swift - Boolean",
       "scope": "constant.language.boolean.swift",
       "settings": {
-        "foreground": "#ee19a3",
+        "foreground": "#E12DA0",
         "fontStyle": ""
       }
     },
@@ -932,7 +932,7 @@
       "name": "Swift - Keyword Operator",
       "scope": "keyword.operator.type.swift",
       "settings": {
-        "foreground": "#ee19a3",
+        "foreground": "#E12DA0",
         "fontStyle": ""
       }
     },
@@ -965,7 +965,7 @@
       "name": "JSON - Boolean",
       "scope": ["constant.language.json"],
       "settings": {
-        "foreground": "#ee19a3",
+        "foreground": "#E12DA0",
         "fontStyle": ""
       }
     },
@@ -1028,7 +1028,7 @@
       "name": "JS - Keywords and Support",
       "scope": ["keyword", "keyword.control.conditional.js"],
       "settings": {
-        "foreground": "#ee19a3",
+        "foreground": "#E12DA0",
         "fontStyle": ""
       }
     },
@@ -1060,7 +1060,7 @@
       "name": "MD - Bold",
       "scope": ["markup.bold.markdown"],
       "settings": {
-        "foreground": "#ee19a3",
+        "foreground": "#E12DA0",
         "fontStyle": "bold"
       }
     },
@@ -1068,7 +1068,7 @@
       "name": "MD - Italic",
       "scope": ["markup.bold.italic"],
       "settings": {
-        "foreground": "#ee19a3",
+        "foreground": "#E12DA0",
         "fontStyle": "italic"
       }
     },
