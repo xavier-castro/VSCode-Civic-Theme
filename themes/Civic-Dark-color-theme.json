@@ -98,8 +98,7 @@
     "editorGutter.deletedBackground": "#D3232E",
     "editorGutter.modifiedBackground": "#4F83CE"
   },
-  "tokenColors": [
-    {
+  "tokenColors": [{
       "name": "Comment",
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
@@ -997,6 +996,13 @@
       }
     },
     {
+      "name": "JS - Keyword operator",
+      "scope": "keyword.operator.logical.js",
+      "settings": {
+        "foreground": "#E7E8EB",
+      }
+    },
+    {
       "name": "JS - Variable Other Prop",
       "scope": [
         "variable.other.property.js",
@@ -1097,6 +1103,15 @@
       "settings": {
         "foreground": "#51C34F",
         "fontStyle": ""
+      }
+    },
+    {
+      "name": "MD - Lists",
+      "scope": [
+        "punctuation.definition.list.begin.markdown"
+      ],
+      "settings": {
+        "foreground": "#E12DA0",
       }
     },
     // MARK: Go
