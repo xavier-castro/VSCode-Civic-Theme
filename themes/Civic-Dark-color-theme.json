@@ -7,6 +7,8 @@
      Current Line: #353749
      Selection: #445261
      
+     Faint Gray Color used in HTML Tags : #bdbdbd62
+     
      Plain Text: #E7E8EB
      Comments: #51C34F
      Strings: #DE3A3C
@@ -22,7 +24,6 @@
      Other Function and Method Names: #29A09F
      Other Constants: #29A09F
      Other Type Names: #29A09F
-     Other Instance Variables and Globals
     */
     "scrollbar.shadow": "#00000000",
     "editorCursor.foreground": "#E7E8EB",
@@ -1112,6 +1113,13 @@
       ],
       "settings": {
         "foreground": "#E12DA0",
+      }
+    },
+    {
+      "name": "MD - Fenced Codeblock",
+      "scope": "markup.fenced_code.block.markdown",
+      "settings": {
+        "foreground": "#bdbdbd62",
       }
     },
     // MARK: Go
