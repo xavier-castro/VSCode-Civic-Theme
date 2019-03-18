@@ -154,6 +154,8 @@
       "scope": [
         "constant.other.color",
         "meta.tag",
+        "meta.brace.round",
+        "meta.parameters",
         "punctuation.definition.tag",
         "punctuation.separator.inheritance.php",
         "punctuation.section.embedded",
@@ -1117,7 +1119,9 @@
     },
     {
       "name": "MD - Fenced Codeblock",
-      "scope": "markup.fenced_code.block.markdown",
+      "scope": [
+        "markup.fenced_code.block.markdown",
+      ],
       "settings": {
         "foreground": "#bdbdbd62",
       }
