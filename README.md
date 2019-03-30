@@ -1,6 +1,6 @@
 # Civic Theme
 
-XCode inspired Civic theme for VSCode. Updating every day.
+XCode inspired Civic theme for VSCode
 
 ## SCREENSHOTS
 

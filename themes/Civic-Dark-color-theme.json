@@ -99,7 +99,8 @@
     "editorGutter.deletedBackground": "#D3232E",
     "editorGutter.modifiedBackground": "#4F83CE"
   },
-  "tokenColors": [{
+  "tokenColors": [
+    {
       "name": "Comment",
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
@@ -529,21 +530,6 @@
         "foreground": "#53B3B1"
       }
     },
-    // {
-    // 	"name": "Markup - Bold-Italic",
-    // 	"scope": [
-    // 		"markup.bold markup.italic",
-    // 		"markup.italic markup.bold",
-    // 		"markup.quote markup.bold",
-    // 		"markup.bold markup.italic string",
-    // 		"markup.italic markup.bold string",
-    // 		"markup.quote markup.bold string"
-    // 	],
-    // 	"settings": {
-    // 		"fontStyle": "bold",
-    // 		"foreground": "#E12DA0"
-    // 	}
-    // },
     {
       "name": "Markup - Underline",
       "scope": ["markup.underline"],
@@ -1004,23 +990,21 @@
         "constant.language.boolean.false.js"
       ],
       "settings": {
-        "foreground": "#E12DA0",
+        "foreground": "#E12DA0"
       }
     },
     {
       "name": "JS - Support Built in",
-      "scope": [
-        "support.class.builtin.js"
-      ],
+      "scope": ["support.class.builtin.js"],
       "settings": {
-        "foreground": "#18B5B1",
+        "foreground": "#18B5B1"
       }
     },
     {
       "name": "JS - Keyword operator",
       "scope": "keyword.operator.logical.js",
       "settings": {
-        "foreground": "#E7E8EB",
+        "foreground": "#E7E8EB"
       }
     },
     {
@@ -1033,7 +1017,7 @@
         "meta.var.expr.js",
         "meta.function-call.js",
         "meta.array.literal.js",
-        "meta.object.member.js",
+        "meta.object.member.js"
       ],
       "settings": {
         "foreground": "#53B3B1",
@@ -1129,20 +1113,16 @@
     },
     {
       "name": "MD - Lists",
-      "scope": [
-        "punctuation.definition.list.begin.markdown"
-      ],
+      "scope": ["punctuation.definition.list.begin.markdown"],
       "settings": {
-        "foreground": "#E12DA0",
+        "foreground": "#E12DA0"
       }
     },
     {
       "name": "MD - Fenced Codeblock",
-      "scope": [
-        "markup.fenced_code.block.markdown",
-      ],
+      "scope": ["markup.fenced_code.block.markdown"],
       "settings": {
-        "foreground": "#bdbdbd62",
+        "foreground": "#bdbdbd62"
       }
     },
     // MARK: Go
